@@ -1,5 +1,4 @@
 # Predicting_Underinsureds_for_Flood_Losses
-Using claims data from National Flood Insurance Program, the model predicts who is underinsured.
 
 Using claims data acquired from the NFIP, we will build a model to predict whether a policyholder is underinsured. Underinsured policies occur when a flood loss exceeds the limits specified in the flood insurance contract. 
 
